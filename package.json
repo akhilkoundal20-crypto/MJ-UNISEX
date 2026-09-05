@@ -1,0 +1,9 @@
+{
+  "name": "mj-unisex-salon",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MJ Unisex Salon - Professional Beauty, Hair, Makeup & Skincare Website",
+  "scripts": {
+    "build": "echo 'Static site ready'"
+  }
+}
